@@ -1,6 +1,4 @@
----
-
-# 🧘 CampusCalm – UX/UI Case Study
+🧘 CampusCalm – UX/UI Case Study
 
 **Designing a calm and mindful digital experience for better mental well-being.**
 
