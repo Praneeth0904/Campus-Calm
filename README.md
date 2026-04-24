@@ -1,4 +1,4 @@
-🧘 CampusCalm – UX/UI Case Study
+## 🧘 CampusCalm – UX/UI Case Study
 
 **Designing a calm and mindful digital experience for better mental well-being.**
 
@@ -7,7 +7,7 @@ Crafted in Figma with an emphasis on **clarity, emotional design, and usability*
 
 ---
 
-🌿 Project Overview
+## 🌿 Project Overview
 
 CampsCalm is designed to help users manage stress, build healthy habits, and explore mindfulness practices in a simple and engaging way.
 The goal was to create a calm, distraction-free experience that encourages consistency and ease of use.
