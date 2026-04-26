@@ -91,11 +91,11 @@ The interface uses soft colors, whitespace, and simple typography to create a ca
 
 A consistent design system was created to maintain visual harmony across the product.
 
-```id="figma-design-system"
+
 | Colors | Typography | Components |
 |--------|------------|------------|
-| ![](./assets/design-1.png) | ![](./assets/design-2.png) | ![](./assets/design-3.png) |
-```
+| <img width="1120" height="876" alt="Image" src="https://github.com/user-attachments/assets/4f1f664e-cae8-4069-b240-cd21726234ff" /> | <img width="860" height="560" alt="Image" src="https://github.com/user-attachments/assets/fbb1f9ab-5c05-4e29-8f85-26ccb0a0da77" /> | ![](./assets/design-3.png) |
+
 
 ---
 
