@@ -50,7 +50,7 @@ UX/UI Designer
 
 ## 🛠️ Tools Used
 
-Figma • HTML5 • CSS3 • JavaScript
+Figma
 
 ---
 
@@ -92,12 +92,15 @@ The interface uses soft colors, whitespace, and simple typography to create a ca
 A consistent design system was created to maintain visual harmony across the product.
 
 
-| Colors | Typography | Components |
-|--------|------------|------------|
-| <img width="1120" height="876" alt="Image" src="https://github.com/user-attachments/assets/4f1f664e-cae8-4069-b240-cd21726234ff" /> | <img width="860" height="560" alt="Image" src="https://github.com/user-attachments/assets/fbb1f9ab-5c05-4e29-8f85-26ccb0a0da77" /> | ![](./assets/design-3.png) |
+Colors
+<img width="4480" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b848fe21-1599-40bc-af1e-e1419911aabb" />
 
+Typography
+<img width="4480" height="3600" alt="Image" src="https://github.com/user-attachments/assets/ca694eb6-ea6d-4e9c-99ee-7bf6ef14acf9" />
 
----
+Components 
+<img width="4480" height="4240" alt="Image" src="https://github.com/user-attachments/assets/eb44a70c-66de-4d2a-9003-b84344f9806a" />
+
 
 ## 📱 Responsive Design
 
