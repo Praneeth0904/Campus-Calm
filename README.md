@@ -63,27 +63,15 @@ Figma
 
 ---
 
-## 🧱 Wireframing
-
-Low-fidelity wireframes were created to structure layout and content flow before moving into high-fidelity designs.
-
-```id="figma-wireframes"
-| Wireframe 1 | Wireframe 2 | Wireframe 3 |
-|-------------|-------------|-------------|
-| ![](./assets/wireframe-1.png) | ![](./assets/wireframe-2.png) | ![](./assets/wireframe-3.png) |
-```
-
----
 
 ## 🎨 Visual Design
 
 The interface uses soft colors, whitespace, and simple typography to create a calming experience.
 
-```id="figma-ui"
-| Home Screen | Feature Section | Content Layout |
-|-------------|----------------|----------------|
-| ![](./assets/ui-1.png) | ![](./assets/ui-2.png) | ![](./assets/ui-3.png) |
-```
+| Home Screen | Progress Tracker |
+|------|------------|
+| <img width="1440" height="4872" alt="Image" src="https://github.com/user-attachments/assets/5ea472fb-568e-4ff4-b0a9-1ccd4ffd11fe" />|<img width="1440" height="7540" alt="Image" src="https://github.com/user-attachments/assets/69cab083-46de-45b3-bc90-b01c03fb5387" />|
+
 
 ---
 
@@ -92,25 +80,18 @@ The interface uses soft colors, whitespace, and simple typography to create a ca
 A consistent design system was created to maintain visual harmony across the product.
 
 
-Colors
+|Colors|
+|-------|
 <img width="4480" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b848fe21-1599-40bc-af1e-e1419911aabb" />
 
-Typography
+|Typography|
+|-------|
 <img width="4480" height="3600" alt="Image" src="https://github.com/user-attachments/assets/ca694eb6-ea6d-4e9c-99ee-7bf6ef14acf9" />
 
-Components 
+|Components|
+|----------|
 <img width="4480" height="4240" alt="Image" src="https://github.com/user-attachments/assets/eb44a70c-66de-4d2a-9003-b84344f9806a" />
 
-
-## 📱 Responsive Design
-
-Designed to work seamlessly across multiple devices.
-
-```id="figma-responsive"
-| Desktop | Tablet | Mobile |
-|---------|--------|--------|
-| ![](./assets/responsive-1.png) | ![](./assets/responsive-2.png) | ![](./assets/responsive-3.png) |
-```
 
 ---
 
@@ -153,7 +134,8 @@ Designed to work seamlessly across multiple devices.
 
 ## 🔗 Figma File
 
-👉 Add your Figma link here
+👉 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2a0Cxq5hverl5ui3xGbfnM/CampusCalm?node-id=397-10755&viewport=342%2C-5467%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=397%3A10755&page-id=397%3A80&embed-host=share" allowfullscreen></iframe>
 
 ---
 
