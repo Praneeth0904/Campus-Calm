@@ -134,8 +134,7 @@ A consistent design system was created to maintain visual harmony across the pro
 
 ## 🔗 Figma File
 
-👉 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2a0Cxq5hverl5ui3xGbfnM/CampusCalm?node-id=397-10755&viewport=342%2C-5467%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=397%3A10755&page-id=397%3A80&embed-host=share" allowfullscreen></iframe>
+👉 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/2a0Cxq5hverl5ui3xGbfnM/CampusCalm?node-id=397-10755&viewport=342%2C-5467%2C0.15&scaling=scale-down&content-scaling=fixed&starting-point-node-id=397%3A10755&page-id=397%3A80&embed-host=share" allowfullscreen></iframe>
 
 ---
 
